@@ -1,0 +1,64 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    background-color: black;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+    color: red;
+}
+
+img {
+	height: 300px;
+}
+
+button {
+    justify-content: center;
+	height: 40px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.part-two-yes {
+	display: none;
+}
+
+.part-two-no {
+    display: none;
+}
+
+.part-three-yes {
+	display: none;
+}
+
+.part-three-no {
+	display: none;
+}
+
+.part-four-yes {
+	display: none;
+}
+
+.driveway {
+	display: none;
+}
+
+.final-scene {
+	display: none;
+}
